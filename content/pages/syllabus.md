@@ -34,8 +34,45 @@ Discussions will focus on cases most of the time, not for the law as such, but f
 
 Grading for this course will be based mainly on one final analytical paper not exceeding 20 pages (double-spaced) and three 3-page papers (double spaced) on topics selected by the students. The topics for short papers may be of a general nature or be on specific cases, but in either case the papers must show a mastery of the themes covered and draw upon the materials in this course. The due dates are noted in the [calendar]({{< baseurl >}}/pages/calendar) section and late submissions will not be accepted under any circumstances. The final paper topic must be chosen well in advance by the students in consultation with the instructor, and the paper is due on the last day of the exam period without fail. The 3-page papers may be submitted by email or hardcopy, but the final paper is due only by hardcopy. Failure to submit more than one 3-page paper will result in a fail grade. Vigorous class participation is expected and encouraged.
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Final Analytical Paper | 45% |
-| Three 3-page Papers | 45% |
-| Vigorous Class Participation | 10%
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Analytical Paper
+{{< tdclose >}}
+{{< tdopen >}}
+45%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Three 3-page Papers
+{{< tdclose >}}
+{{< tdopen >}}
+45%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Vigorous Class Participation
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
